@@ -13,7 +13,7 @@ global.skizo = 'David Cyril'
 global.casterix = 'DeeCeeXxx'
 //watermark 
 global.packname = '*DAVID CYRIL*'
-global.author = 'QUEEN_ANITA-V1'
+global.author = 'QUEEN_ANITA-V3'
 
 // cpanel 
 global.domain = 'https://' // deeceexxx
@@ -57,7 +57,7 @@ global.rpg = {
 //auto functioner
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
-global.statusseen = false;                 //make true to view statuses
+global.autoViewStatus = true;       //make true to view statuses
 global.unavailable = true;     
 //to show your real presence  
 global.available = false;   
@@ -67,7 +67,18 @@ global.autoreadmessages = false;
 global.chatbot = false;
 global.autoreact = false;
 
-global.key = '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';
+global.welcome = false;
+
+global.prefix = '.';
+
+global.autobio = false;
+
+global.antilink = false;
+
+global.antilinkkick = false;
+
+global.antilinkwarn = false;
+
 //_____________//
 // Don't change it
 global.antibot = false
